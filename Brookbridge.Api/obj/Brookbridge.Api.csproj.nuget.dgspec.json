@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Api\\Brookbridge.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Api\\Brookbridge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Api\\Brookbridge.Api.csproj",
+        "projectName": "Brookbridge.Api",
+        "projectPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Api\\Brookbridge.Api.csproj",
+        "packagesPath": "C:\\Users\\whule\\.nuget\\packages\\",
+        "outputPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\whule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\Brookbridge.Contracts.csproj": {
+                "projectPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\Brookbridge.Contracts.csproj"
+              },
+              "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\Brookbridge.Data.csproj": {
+                "projectPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\Brookbridge.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\Brookbridge.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\Brookbridge.Contracts.csproj",
+        "projectName": "Brookbridge.Contracts",
+        "projectPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\Brookbridge.Contracts.csproj",
+        "packagesPath": "C:\\Users\\whule\\.nuget\\packages\\",
+        "outputPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\whule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\Brookbridge.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\Brookbridge.Data.csproj",
+        "projectName": "Brookbridge.Data",
+        "projectPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\Brookbridge.Data.csproj",
+        "packagesPath": "C:\\Users\\whule\\.nuget\\packages\\",
+        "outputPath": "C:\\Brookbridge app\\Brookbridge2\\Brookbridge.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\whule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

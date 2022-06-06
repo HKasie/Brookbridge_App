@@ -1,0 +1,6 @@
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\bin\Debug\Brookbridge.Database.dacpac
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\bin\Debug\Brookbridge.Database.dll
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\bin\Debug\Brookbridge.Database.pdb
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\obj\Debug\Brookbridge.Database.sqlproj.AssemblyReference.cache
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\obj\Debug\Brookbridge.Database.dll
+C:\Brookbridge app\Brookbridge2\Brookbridge.Database\obj\Debug\Brookbridge.Database.pdb

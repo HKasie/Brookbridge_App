@@ -1,0 +1,12 @@
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\bin\Debug\net6.0\Brookbridge.Core.deps.json
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\bin\Debug\net6.0\Brookbridge.Core.dll
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\bin\Debug\net6.0\Brookbridge.Core.pdb
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.csproj.AssemblyReference.cache
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.AssemblyInfoInputs.cache
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.AssemblyInfo.cs
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.csproj.CoreCompileInputs.cache
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.dll
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\refint\Brookbridge.Core.dll
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\Brookbridge.Core.pdb
+C:\Brookbridge app\Brookbridge2\Brookbridge.Core\obj\Debug\net6.0\ref\Brookbridge.Core.dll
